@@ -1,6 +1,6 @@
 ---
 title: Bronner
-description: Weißweintraube
+description: Weißweintrauben
 cover: /img/bronner-traube.jpg
 ---
 **Allgemeines:**  
